@@ -13,7 +13,7 @@ There are three directories:
 ```vendor``` - composer's directory for autoloader's class and relatives
 
 Other files:
-```composer.json``` - all the needed setup for composer's autoloader + other project orrinted stuff
+```composer.json``` - all the needed setup for composer's autoloader + other project orriented stuff
 ```README.md``` - this text you are now reading
 ```test.php``` - a script to test how the code works
 
