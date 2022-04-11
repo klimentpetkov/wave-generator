@@ -1,7 +1,7 @@
 # Waveform Generator - backend task provided from Jiminny
 
 ## Description of the task is located here
-[click](https://github.com/jiminny/join-the-team/blob/master/backend-task.md)
+[follow](https://github.com/jiminny/join-the-team/blob/master/backend-task.md)
 
 ## Code purpose
 To illustrate how the task can be solved with OOP following SOLID principles
